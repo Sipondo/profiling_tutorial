@@ -1,3 +1,5 @@
+![qr code to here](img/qr.png)
+
 # Profiling Tutorial
 
 Getting started:
